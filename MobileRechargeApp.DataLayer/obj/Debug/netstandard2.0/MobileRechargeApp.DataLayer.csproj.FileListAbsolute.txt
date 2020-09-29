@@ -1,0 +1,8 @@
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.DataLayer\bin\Debug\netstandard2.0\MobileRechargeApp.DataLayer.deps.json
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.DataLayer\bin\Debug\netstandard2.0\MobileRechargeApp.DataLayer.dll
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.DataLayer\bin\Debug\netstandard2.0\MobileRechargeApp.DataLayer.pdb
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.DataLayer\obj\Debug\netstandard2.0\MobileRechargeApp.DataLayer.csprojAssemblyReference.cache
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.DataLayer\obj\Debug\netstandard2.0\MobileRechargeApp.DataLayer.AssemblyInfoInputs.cache
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.DataLayer\obj\Debug\netstandard2.0\MobileRechargeApp.DataLayer.AssemblyInfo.cs
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.DataLayer\obj\Debug\netstandard2.0\MobileRechargeApp.DataLayer.dll
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.DataLayer\obj\Debug\netstandard2.0\MobileRechargeApp.DataLayer.pdb

@@ -1,0 +1,47 @@
+﻿
+@model IEnumerable<MobileRechargeApp.Entities.Postpaid>;
+
+@{
+    ViewData["Title"] = "GetAllPostpaidRechargeDetails";
+}
+
+<h1>GetAllPostpaidRechargeDetails</h1>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <div>
+        <input type="button" value="Recharge" onclick="location.href='@Url.Action("RechargePostpaidPlane", "Postpaid")'" />
+    </div>
+    <div>
+        <input type="button" value="HomePage" onclick="location.href='@Url.Action("Index", "Home")'" />
+    </div>
+    <hr />
+</head>
+
+
+<body>
+    <table class="table">
+        <tr>
+            <th>MobileNumber</th>
+            <th>Operator</th>
+            <th>Amount</th>
+        </tr>
+        @foreach (var list in Model)
+        {
+            <tr>
+                <td>@list.MobilrNumber</td>
+                <td>@list.Operator</td>
+                <td>@list.Amount</td>
+                <td> 
+                    <a asp-action="EditTeam">RechargeAgain/</a>
+                    <a asp-action="DeleteTeam">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+

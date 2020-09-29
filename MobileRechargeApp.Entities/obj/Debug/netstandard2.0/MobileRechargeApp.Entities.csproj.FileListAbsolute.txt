@@ -1,0 +1,3 @@
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.Entities\obj\Debug\netstandard2.0\MobileRechargeApp.Entities.csprojAssemblyReference.cache
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.Entities\obj\Debug\netstandard2.0\MobileRechargeApp.Entities.AssemblyInfoInputs.cache
+I:\IIHT\MobileRechargeApp\Dotnet_JR_FSE_PA_MobileRechargeApp\MobileRechargeApp.Entities\obj\Debug\netstandard2.0\MobileRechargeApp.Entities.AssemblyInfo.cs
